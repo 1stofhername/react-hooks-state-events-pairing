@@ -5,8 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
 }
 
 .App {
   text-align: center;
+}
+
+.vote {
+ padding:5px;
+}
+
+#hide {
+margin-top:15px;
+}
+
+#pagebreak{
+  margin-top: 10px;
+  background-color:grey;
+  height: 1px;
 }
